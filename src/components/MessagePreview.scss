@@ -1,0 +1,13 @@
+.messagePreview{
+  width:600px;
+  background: white;
+  margin-bottom: 10px;
+  padding: 5px;
+  &:hover{
+    background: red;
+  }
+}
+
+.selected{
+  background: darkred;
+}
